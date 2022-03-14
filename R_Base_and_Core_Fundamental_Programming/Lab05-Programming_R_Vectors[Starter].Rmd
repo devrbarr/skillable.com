@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Access Vector Elements ##
-```{r Access Vector Elements, include=TRUE, error=FALSE, warning=FALSE}
+```{r include=TRUE, error=FALSE, warning=FALSE}
 
 
 
