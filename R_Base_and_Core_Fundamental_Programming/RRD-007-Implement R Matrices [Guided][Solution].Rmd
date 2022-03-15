@@ -45,7 +45,7 @@ dim(m_classRoster)
 ```
 
 # Implementing the R Class Roster Matrix
-```{r Implement, include=T, error=T, warning=T}
+```{r Create & Implement a Class Roster, include=T, error=T, warning=T}
 
 colnames(m_classRoster) = c("StudentID", "FirstName", "LastName", "Grade")
 m_classRoster
@@ -58,7 +58,7 @@ m_classRoster[, "FirstName"]
 ```
 
 # Modifying the R Class Roster Matrix
-```{r modify, include=T, warning=F, error=F}
+```{r  Modify the Class Roster Matrix, include=T, warning=F, error=F}
 
 m_classRoster[1, 2] <- "George"
 m_classRoster
