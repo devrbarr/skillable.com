@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - Factor - Discussed later in this series
 
 # Create an R Matrix
-```{r Intro, include= T, warning=F, error=F}
+```{r Simple R Matrix, include= T, warning=F, error=F}
 
 
 
