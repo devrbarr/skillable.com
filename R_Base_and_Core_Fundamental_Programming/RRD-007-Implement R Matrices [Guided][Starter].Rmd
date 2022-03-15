@@ -34,14 +34,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Implementing the R Class Roster Matrix
-```{r Implement, include=T, error=T, warning=T}
+```{r Create & Implement a Class Roster, include=T, error=T, warning=T}
 
 
 
 ```
 
 # Modifying the R Class Roster Matrix
-```{r modify, include=T, warning=F, error=F}
+```{r Modify the Class Roster Matrix, include=T, warning=F, error=F}
 
 
 
